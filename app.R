@@ -7,9 +7,6 @@ source("lazyr.R")
 source("interactive.R")
 source("animation.R")
 
-img <- RNifti::readNifti("data/3d_t1w.nii.gz")
-im <- img[,,]
-
 read_img_as_array <- function(path) {
   img_raw <- RNifti::readNifti(path)
   if (length(dim(img_raw)) == 3) return(img_raw[,,])

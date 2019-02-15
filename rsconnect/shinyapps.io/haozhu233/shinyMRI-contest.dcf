@@ -1,0 +1,12 @@
+name: shinyMRI-contest
+title: shinyMRI-contest
+username:
+account: haozhu233
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 719010
+bundleId: 1878299
+url: https://haozhu233.shinyapps.io/shinyMRI-contest/
+when: 1550244434.52042
+asMultiple: FALSE
+asStatic: FALSE
