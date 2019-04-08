@@ -13,6 +13,11 @@ In the second mode, you can play with the app interactively by clicking a point 
 
 If you check the source code of app.R, you will see the app itself is very small. The truth is that this time we also wraped up the two modes I just described as shiny modules. In the near future, we will release this two modules as a separate R package so people can use them more easily.
 
+# Credits
+This project was originally developed by the Biostats and Data Science Group at Marcus Institute (previously Institute for Aging Research) as a side project for Dr. Lew Lipsitz's Cerebrovascular Mechanism of Slow Gait & Fall study (Grant: 5R01-AG041785-03). Nischal Chand, who was an intern in our group, contributed a lot to this project and came up with the idea of using another environment to improve the performance. Deeply appreciated!
+
+The original plotting design and the idea of making it dynamic was inspired by John Muschelli's neurobase package. The Demo MRI image data were downloaded from the UCLA Consortium for Neuropsychiatric Phenomics LA5c Study https://doi.org/10.12688/f1000research.11964.2. In this example, we are using Jon Clayden's RNifti package to read in the data as it is literally blazing fast.
+
 Authors:
 - Hao Zhu
 - Nischal Mahaveer Chand
