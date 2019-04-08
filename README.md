@@ -1,5 +1,6 @@
 # shinyMRI-contest
-https://community.rstudio.com/t/shiny-contest-submission-shinymri-view-mri-images-in-shiny/23995
+Contest Submission: https://community.rstudio.com/t/shiny-contest-submission-shinymri-view-mri-images-in-shiny/23995
+Demo App: https://haozhu233.shinyapps.io/shinyMRI-contest/
 
 ![](https://community.rstudio.com/uploads/default/optimized/2X/9/9ae6cecde050278c43a0423ec4dd64260756394c_2_690x366.gif)
 
